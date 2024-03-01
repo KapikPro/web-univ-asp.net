@@ -4,6 +4,7 @@ WORKDIR /source
 
 # copy csproj and restore as distinct layers
 COPY * .
+COPY WebApplication2/* WebApplication2
 RUN dotnet restore
 
 # copy everything else and build app

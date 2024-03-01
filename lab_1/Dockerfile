@@ -7,7 +7,7 @@ COPY * .
 RUN dotnet restore
 
 # copy everything else and build app
-WORKDIR /source/WebApplication2
+WORKDIR /source
 RUN dotnet publish -c release -o /app --no-restore
 
 # final stage/image

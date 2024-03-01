@@ -1,0 +1,120 @@
+﻿@model Form
+
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <h1>Lab 1</h1>
+ 
+        <title>Заявка на подключение интернета</title>
+        <style>
+            .centr {
+                text-align: center;
+            }
+
+            .right {
+                text-align: right;
+            }
+
+            .comm {
+                height: 150px;
+                width: 250px;
+            }
+        </style>
+
+    </head>
+
+
+   
+    <body>
+    <div class="text-center">
+        <!--form method="post" asp-controller="Form" action="/Index"-->
+        <form method="post" action="/">
+        <h1>Заявка на подключение интернета</h1>
+
+        <table>
+            <tr>
+                <td colspan="3">
+                    <h2>Приоритет заказа</h2>
+                    <div>
+                        Низкая прочность
+                        <input type="range" name="price" min="0" max="1">
+                        Высокая прочность
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="3">
+                    <h2>Заказчики:</h2>
+                    <div>
+                        <input type="text" asp-for="Surname" placeholder="Фамилия" name="fam">
+                    </div>
+                    <div>
+                        <input type="text" asp-for="Name" placeholder="Имя" name="name">
+                    </div>
+                    <div>
+                        <input type="text" asp-for="Secondname" placeholder="Отчество" name="otch">
+                    </div>
+                    <h2>Адрес:</h2>
+                    <div>
+                        <input type="text" name="address">
+                    </div>
+                </td>
+                <td>
+                    <h2>Сколько устройств будут подключены</h2>
+                    <div>
+                        <input type="radio" name="oneDevice">  1 устройство
+                    </div>
+                    <div>
+                        <input type="radio" name="upToThenThreeDevice">  до 3-х устройств
+                    </div>
+                    <div>
+                        <input type="radio" name="moreThenThreeDevice">  от 3-х устройств
+                    </div>
+                </td>
+                <td>
+                    <h2>Дополнительные услуги</h2>
+                    <div>
+                        <input type="checkbox" name="makeRouter">  Установить роутер
+                    </div>
+                    <div>
+                        <input type="checkbox" name="makeWiFi">  Настроить Wi-Fi
+                    </div>
+                    <div>
+                        <input type="checkbox" name="changeRate">  Поменять тариф
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Провайдер:
+                    <select name="provider">
+                        <option>Ростелеком</option>
+                        <option>МТС</option>
+                        <option>МГТС</option>
+                        <option>RiNet</option>
+                        <option>StarLink</option>
+                    </select>
+                </td>
+                <td>
+                    <h2>Контакты заказчика:</h2>
+                    <div>
+                        <input type="tel" placeholder="Телефон" name="phone">
+                    </div>
+                    <div></div>
+                    <div>
+                        <input type="email" placeholder="E-mail" name="mail">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <div>
+                        <input type="submit" value="Отправить">
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </form>
+    </body>
+
+    </html>

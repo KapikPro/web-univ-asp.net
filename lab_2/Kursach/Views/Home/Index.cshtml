@@ -1,0 +1,48 @@
+﻿@model Personn
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <h1>Lab 2</h1>
+
+    <title>форма для входа</title>
+    <style>
+        .centr {
+            text-align: center;
+        }
+
+        .right {
+            text-align: right;
+        }
+
+        .comm {
+            height: 150px;
+            width: 250px;
+        }
+    </style>
+
+</head>
+
+
+
+<body>
+    <div class="text-center">
+        <!--form method="post" asp-controller="Form" action="/Index"-->
+        <form method="post" asp-controller="Home">
+            <h1>Вход</h1>
+            <div>
+                <input type="text" asp-for="login" placeholder="login" name="login">
+            </div>
+            <div>
+                <input type="text" asp-for="password" placeholder="password" name="password">
+            </div>
+            <div>
+                <input type="submit" asp-action="Vh" value="Вход">
+            </div>
+            <div>
+                <input type="submit" asp-action="Reg" value="Регистрация">
+            </div>
+        </form>
+</body>
+
+</html>

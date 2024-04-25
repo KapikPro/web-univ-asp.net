@@ -1,0 +1,43 @@
+﻿<html>
+<head>
+    <meta charset="UTF-8">
+    <h1>Lab 3</h1>
+
+    <title>форма для входа</title>
+    <style>
+        .centr {
+            text-align: center;
+        }
+
+        .right {
+            text-align: right;
+        }
+
+        .comm {
+            height: 150px;
+            width: 250px;
+        }
+    </style>
+
+</head>
+
+
+
+<body>
+    <div class="text-center">
+        <!--form method="post" asp-controller="Form" action="/Index"-->
+        <form method="post" asp-controller="Home">
+            <h1>Вход</h1>
+            <div>
+                <input type="text"  name="time">
+            </div>
+            <div>
+                <input type="submit" asp-action="Add" value="Добавить напоминание">
+            </div>
+            <div>
+                <input type="submit" asp-action="Check" value="Проверить напоминания">
+            </div>
+        </form>
+</body>
+
+</html>

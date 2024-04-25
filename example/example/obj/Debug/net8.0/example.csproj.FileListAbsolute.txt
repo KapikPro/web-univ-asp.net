@@ -1,0 +1,230 @@
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.csproj.AssemblyReference.cache
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.GeneratedMSBuildEditorConfig.editorconfig
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.AssemblyInfoInputs.cache
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.AssemblyInfo.cs
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.csproj.CoreCompileInputs.cache
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.MvcApplicationPartsAssemblyInfo.cs
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.MvcApplicationPartsAssemblyInfo.cache
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.RazorAssemblyInfo.cache
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.RazorAssemblyInfo.cs
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.sourcelink.json
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\appsettings.Development.json
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\appsettings.json
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\example.staticwebassets.runtime.json
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\example.exe
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\example.deps.json
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\example.runtimeconfig.json
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\example.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\example.pdb
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Humanizer.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Npgsql.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\System.CodeDom.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets.build.json
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets.development.json
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets\msbuild.example.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets\msbuild.build.example.props
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.example.props
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.example.props
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\scopedcss\bundle\example.styles.css
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\scopedcss\projectbundle\example.bundle.scp.css
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.csproj.CopyComplete
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\refint\example.dll
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.pdb
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\example.genruntimeconfig.cache
+D:\VCode\файлы бубни\web-univ-asp.net\example\example\obj\Debug\net8.0\ref\example.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\appsettings.Development.json
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\appsettings.json
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\example.staticwebassets.runtime.json
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\example.exe
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\example.deps.json
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\example.runtimeconfig.json
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\example.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\example.pdb
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Humanizer.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Npgsql.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\System.CodeDom.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.csproj.AssemblyReference.cache
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.GeneratedMSBuildEditorConfig.editorconfig
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.AssemblyInfoInputs.cache
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.AssemblyInfo.cs
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.csproj.CoreCompileInputs.cache
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.MvcApplicationPartsAssemblyInfo.cs
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.MvcApplicationPartsAssemblyInfo.cache
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.RazorAssemblyInfo.cache
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.RazorAssemblyInfo.cs
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.sourcelink.json
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets.build.json
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets.development.json
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets\msbuild.example.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets\msbuild.build.example.props
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.example.props
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.example.props
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\scopedcss\bundle\example.styles.css
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\scopedcss\projectbundle\example.bundle.scp.css
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.csproj.CopyComplete
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\refint\example.dll
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.pdb
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\example.genruntimeconfig.cache
+D:\VCode\files_bubna\web-univ-asp.net\example\example\obj\Debug\net8.0\ref\example.dll

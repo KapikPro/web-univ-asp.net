@@ -28,3 +28,4 @@ D:\VCode\файлы бубни\web-univ-asp.net\WebApplication1\WebApplication1\
 D:\VCode\файлы бубни\web-univ-asp.net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 D:\VCode\файлы бубни\web-univ-asp.net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 D:\VCode\файлы бубни\web-univ-asp.net\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\VCode\файлы бубни\web-univ-asp.net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

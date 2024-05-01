@@ -18,37 +18,41 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPost]
-        public IActionResult Add(DateTime time)
+        public IActionResult Add(int year)
         {
-            Response.Cookies.Append($"{Guid.NewGuid()}", JsonSerializer.Serialize(new
+            double Ashours;
+            int Achours;
+            int currentYear = DateTime.Now.Year;
+            if (currentYear < year || currentYear-year>4)
             {
-                Message = "...",
-                Time = time,
-            }));
-
-
-            return Redirect("/");
-        }
-
-        [HttpPost("check")]
-        public IActionResult Check()
-        {
-            var currentTime = DateTime.Now;
-            Request.Cookies.ToList().ForEach(cookie =>
+                Ashours = 0;
+                Achours = 0;
+            }
+            else
             {
-                if (Guid.TryParse(cookie.Key, out var _) is false) 
-                {
-                    return;
-                }
+                // Рассчитываем количество лет учебы
+                int studyYears = currentYear - year + 1;
 
-                var notification = JsonSerializer.Deserialize<Notification>(cookie.Value);
-                if(notification.Time < currentTime) 
+                // Количество дней в учебном году (учитывая високосные годы)
+                DateTime startDate = new DateTime(year, 9, 1);
+                DateTime endDate = new DateTime(currentYear, 5, 31);
+                TimeSpan studyPeriod = endDate - startDate;
+                int studyDays = studyPeriod.Days + 1; // +1 чтобы включить последний день
+
+                // Учитываем выходные дни (суббота и воскресенье)
+                int weekends = 0;
+                for (DateTime date = startDate; date <= endDate; date = date.AddDays(1))
                 {
-                    _logger.LogCritical(notification.Message);
-                    Response.Cookies.Delete(cookie.Key);
+                    if (date.DayOfWeek == DayOfWeek.Saturday || date.DayOfWeek == DayOfWeek.Sunday)
+                        weekends++;
                 }
-            });
-            return Redirect("/");
+                studyDays -= weekends;
+
+                Ashours = studyDays *3*1.5;
+                Achours = studyDays * 3*2;
+            }
+            Hours notification = new Hours(Achours,Ashours);
+            return View("Index",notification);
         }
 
         public IActionResult Index()

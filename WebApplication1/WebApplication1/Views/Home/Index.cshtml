@@ -29,13 +29,17 @@
         <form method="post" asp-controller="Home">
             <h1>Вход</h1>
             <div>
-                <input type="text"  name="time">
+                <input type="text"  name="year">
             </div>
             <div>
-                <input type="submit" asp-action="Add" value="Добавить напоминание">
+                <input type="submit" asp-action="Add" value="ввод года">
+            </div>
+            @model WebApplication1.Models.Hours
+            <div>
+               академических часов @Model?.academicHours
             </div>
             <div>
-                <input type="submit" asp-action="Check" value="Проверить напоминания">
+                астрономических часов @Model?.asronomicHours
             </div>
         </form>
 </body>

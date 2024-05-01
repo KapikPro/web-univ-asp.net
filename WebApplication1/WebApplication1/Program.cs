@@ -1,3 +1,5 @@
+using WebApplication1.Models;
+
 namespace WebApplication1
 {
     public class Program
@@ -31,6 +33,8 @@ namespace WebApplication1
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
+           
+            
         }
     }
 }
